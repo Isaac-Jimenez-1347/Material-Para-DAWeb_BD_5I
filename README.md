@@ -7,4 +7,4 @@ Tenemos link de referencia mas documentos Agosto 2024
   - CodePen
   - https://codepen.io/
   - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
-  - https://www.mclibre.org/
+  - https://www.mclibre.org/ 
