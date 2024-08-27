@@ -9,4 +9,13 @@ Tenemos link de referencia mas documentos Agosto 2024
   - https://codepen.io/
     
   - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
-  - https://www.mclibre.org/ 
+  - https://www.mclibre.org/
+
+ ## framework y lenguaje de programacion
+
+  - paginas web para programacion
+  - https://www.w3schools.com/
+  - Phyton
+  - https://www.w3schools.com/python/default.asp
+  - descargar phyton
+  - https://www.python.org/downloads/
